@@ -21,7 +21,19 @@
     "navbar",
     "peaceiris",
     "lycheeverse",
-    "lychee"
+    "lychee",
+    "automations",
+    "helpdesk",
+    "Helpdesks",
+    "normalises",
+    "recognise",
+    "personalise",
+    "Freshdesk",
+    "Intercom",
+    "HubSpot",
+    "GitOps",
+    "MTTR",
+    "Zendesk"
   ],
   "ignorePaths": [
     "node_modules",
