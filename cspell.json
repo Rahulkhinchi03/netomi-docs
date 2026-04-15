@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Netomi",
+    "Docusaurus",
+    "cspell",
+    "markdownlint",
+    "webhook",
+    "webhooks",
+    "HMAC",
+    "SHA256",
+    "frontmatter",
+    "sidebar",
+    "sidebars",
+    "versioned",
+    "kubectl",
+    "npm",
+    "mdx",
+    "MDX",
+    "navbar",
+    "peaceiris",
+    "lycheeverse",
+    "lychee"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "build",
+    ".docusaurus",
+    "versioned_docs"
+  ]
+}
