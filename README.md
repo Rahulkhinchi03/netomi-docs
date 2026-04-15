@@ -2,8 +2,8 @@
 
 A minimal but functional developer documentation site built with Docusaurus, deployed to GitHub Pages, with automated quality checks on every pull request.
 
-**Live site:** https://Rahulkhinchi03.github.io/netomi-docs/
-**Repository:** https://github.com/Rahulkhinchi03/netomi-docs
+- **Live site:** https://Rahulkhinchi03.github.io/netomi-docs/
+- **Repository:** https://github.com/Rahulkhinchi03/netomi-docs
 
 ---
 
