@@ -24,3 +24,7 @@ This documentation assumes you are a developer or technical team member responsi
 ## How to use these docs
 
 Start with the [Quickstart](./quickstart) to get a working integration in under 15 minutes. Then read [Core Concepts](../guides/core-concepts) to understand how the platform works before building anything production-ready.
+
+## Additional resources
+
+More resources coming soon.
