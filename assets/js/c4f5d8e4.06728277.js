@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknetomi_docs=self.webpackChunknetomi_docs||[]).push([["823"],{7176(t,e,n){n.r(e),n.d(e,{default:()=>c});var o=n(4848),s=n(6347);function c(){return(0,o.jsx)(s.rd,{to:"/netomi-docs/getting-started/introduction"})}}}]);
