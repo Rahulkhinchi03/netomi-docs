@@ -30,4 +30,12 @@ module.exports = {
   // Disabled: our tables use compact style without padded pipe spacing,
   // which is valid markdown and more readable in raw form.
   MD060: false,
+
+  // MD022 - Headings should be surrounded by blank lines
+  // Disabled: our docs use tight heading spacing which is valid and readable.
+  MD022: false,
+
+  // MD047 - Files should end with a single newline character
+  // Disabled: handled by editor settings, not a docs quality concern.
+  MD047: false,
 };
