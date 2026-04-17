@@ -1,4 +1,4 @@
-\# Netomi Docs
+# Netomi Docs
 
 A minimal but functional developer documentation site built with Docusaurus, deployed to GitHub Pages, with automated quality checks on every pull request.
 
