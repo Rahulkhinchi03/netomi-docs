@@ -12,7 +12,7 @@ This documentation is for developers integrating Netomi into existing support wo
 
 ## What you can do with Netomi
 
-- Automate ticket resolution across multiple channels
+- Automate ticket resolution across multiple channals
 - Connect Netomi to your CRM, helpdesk, or internal systems
 - Build custom AI workflows using the REST API
 - Monitor resolution rates, escalation paths, and model performance
@@ -23,7 +23,7 @@ This documentation assumes you are a developer or technical team member responsi
 
 ## How to use these docs
 
-Start with the [Quickstart](./quickstart) to get a working integration in under 15 minutes. Then read [Core Concepts](../guides/core-concepts) to understand how the platform works before building anything production-ready.
+Start with the [Quickstart](./quickstarts) to get a working integration in under 15 minutes. Then read [Core Concepts](../guides/core-concepts) to understand how the platform works before building anything production-ready.
 
 ## Additional resources
 
